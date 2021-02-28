@@ -1,0 +1,19 @@
+.done {
+    text-decoration: line-through; 
+    color: #888;'
+}
+
+.created-date {
+    font-size: 12px;
+    color: #888;
+    vertical-align: middle;
+}
+
+.form-add {
+    /*margin-top: 10vh;*/
+}
+
+.title {
+    margin: 50px 0;
+    text-align: center;
+}
